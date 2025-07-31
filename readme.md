@@ -1,6 +1,6 @@
 # My Clang Format
 
-🧹 A simple `.clang-format` file that enforces a clean, Stroustrup-like C++ code style.
+🧹 A simple `.clang-format` file that enforces a clean, inspired Stroustrup-like C++ code style.
 
 ---
 
