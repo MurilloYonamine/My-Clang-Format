@@ -1,10 +1,10 @@
 # My Clang Format
 
-🧹 A simple `.clang-format` file that enforces a clean, inspired Stroustrup-like C++ code style.
+A simple `.clang-format` file that enforces a clean, inspired Stroustrup-like C++ code style.
 
 ---
 
-## 💡 Highlights
+## Highlights
 
 - Opening braces `{` on the **same line** (functions, classes, control statements, etc.)
 - Indentation with **tabs**, not spaces
@@ -15,7 +15,7 @@
 
 ---
 
-## 📐 Preview
+## Preview
 
 ```cpp
 #include <iostream>
